@@ -95,7 +95,7 @@ const PostList = () => {
   }
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto px-4 py-8 sm:px-6 lg:px-20">
       {/* Controls */}
       <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-8 space-y-4 sm:space-y-0">
         {/* Items info */}
